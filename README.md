@@ -15,7 +15,7 @@
 <img height="180en" src="https://cdn.discordapp.com/attachments/983491893621055566/984555943826194432/nav_ajustada.png">
 </a>  
 
-❗ Ou acesse: NULL
+❗ Ou acesse: https://nav-corp.vercel.app/
 
 [ENG]
 
@@ -32,4 +32,4 @@
 <img height="180en" src="https://cdn.discordapp.com/attachments/983491893621055566/984555943826194432/nav_ajustada.png">
 </a>  
 
-❗ or acess: NULL
+❗ or acess: https://nav-corp.vercel.app/
