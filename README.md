@@ -12,7 +12,7 @@
 🔰 Entre na Nav Corp.
 
 <a href="https://discord.gg/Hq6AMzC72s">
-<img height="180en" src="https://cdn.discordapp.com/attachments/983491893621055566/984555943826194432/nav_ajustada.png">
+<img height="180en" src="https://cdn.discordapp.com/attachments/983491893621055566/991765225802051604/navaj1.png">
 </a>  
 
 ❗ Ou acesse: https://nav-corp.vercel.app/
@@ -29,7 +29,7 @@
 🔰 Enter on Nav Corp.
 
 <a href="https://discord.gg/Hq6AMzC72s">
-<img height="180en" src="https://cdn.discordapp.com/attachments/983491893621055566/984555943826194432/nav_ajustada.png">
+<img height="180en" src="https://cdn.discordapp.com/attachments/983491893621055566/991765225802051604/navaj1.png">
 </a>  
 
 ❗ or acess: https://nav-corp.vercel.app/
